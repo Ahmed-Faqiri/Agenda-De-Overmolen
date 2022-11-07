@@ -20,7 +20,7 @@
 - Appointments should be long term or a single time
 - Sidebar should point out seniors in a red color for those who don't have an appointment scheduled yet
 - Records of appointments should be saved
-- future feature: filter between volunteers and employees
-- future feature: Employees and Seniors should have an overview of the hours they have worked/care they have recieved
-- future feature: If Employee is sick that day
-- future feature: appointments should have a cancelation feature
+- Feature to be added after release: filter between volunteers and employees
+- Feature to be added after release: Employees and Seniors should have an overview of the hours they have worked/care they have recieved
+- Feature to be added after release: If Employee is sick that day
+- Feature to be added after release: appointments should have a cancelation feature
